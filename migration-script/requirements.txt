@@ -1,0 +1,6 @@
+Flask==2.0.3
+requests==2.26.0
+gemini-llm-sdk==1.0.0
+pandas==1.3.3
+numpy==1.21.2
+pyyaml==5.4.1
