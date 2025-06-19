@@ -8,7 +8,7 @@ from google import  generativeai as genai
 
 class GeminiIntegration:
     def __init__(self):
-        genai.configure(api_key="AIzaSyD_N3p-DCX9JWCBXrZOFVWS1Ebb78tJcZU")
+        
         self.model = genai.GenerativeModel('gemini-2.0-flash')
         self.history = []
 
